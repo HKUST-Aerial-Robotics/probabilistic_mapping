@@ -6,6 +6,6 @@ To complie this code, you should modify the arch code (i.e. --generate-code arch
 
 The source code is released under GPLv3 license. If you use our code, please cite our paper:
 
-[1] Yonggen Ling and Shaojie Shen, "Probabilistic Dense Reconstruction from a Moving Camera" in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018.
+[1] Yonggen Ling, Kaixuan Wang and Shaojie Shen, "Probabilistic Dense Reconstruction from a Moving Camera" in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018.
 
 For more questions, please contact ylingaa at connect dot ust dot hk .
